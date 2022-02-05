@@ -6,17 +6,201 @@ uid: 42dac2d8-e6ce-206a-9f62-a3ffea6df996
 
 The lecture and supplemental files are presented here.
 
-| LEC # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| 1 | Introduction | ([PDF ‑ 3.8 MB]({{< baseurl >}}/resources/lect1)) |
-| 2 | _Basic Concepts_  {{< br >}}  {{< br >}}Shape Representation  {{< br >}}  {{< br >}}Shape Arithmetic  {{< br >}}  {{< br >}}Shape Rules | ([PDF]({{< baseurl >}}/resources/lect2))  {{< br >}}  {{< br >}}Example Computations ([PDF]({{< baseurl >}}/resources/examplecomp)) |
-| 3 | _Basic Concepts (cont.)  {{< br >}}  {{< br >}}_Rule Application: Nondeterminism, Emergence, Labeling  {{< br >}}  {{< br >}}Parametric Design and Grammars | ([PDF]({{< baseurl >}}/resources/lect3)) |
-| 4 | _Style and Analysis  {{< br >}}  {{< br >}}_"The Immediacy of the Artist's Mark in Computation" - Guest Lecture, Jacquelyn Martino | &nbsp; |
-| 5 | _Style and Analysis (cont.)  {{< br >}}  {{< br >}}_Inference Problem  {{< br >}}  {{< br >}}Decomposition and Meaning  {{< br >}}  {{< br >}}Examples: Ice Rays, Palladio | ([PDF]({{< baseurl >}}/resources/lect5))  {{< br >}}  {{< br >}}Andrea Palladio ([PDF]({{< baseurl >}}/resources/palladio)) |
-| 6 | _Assignment 4 Review_  {{< br >}}  {{< br >}}Student Presentations of their Assignments | &nbsp; |
-| 7 | _Creative Design  {{< br >}}  {{< br >}}_Basic Grammars | ([PDF]({{< baseurl >}}/resources/lect7)) |
-| 8 | _Creative Design (cont.)  {{< br >}}_  {{< br >}}Beyond Basic Grammars | ([PDF ‑ 1.4 MB]({{< baseurl >}}/resources/lect8)) |
-| 9 | _Creative Design (cont.)  {{< br >}}_  {{< br >}}Shaper2D Computer Program  {{< br >}}  {{< br >}}Nondeterministic Shaper2D Computer Program | ([PDF]({{< baseurl >}}/resources/lect9)) |
-| 10 | _Creative Design (cont.)  {{< br >}}_  {{< br >}}Shaper3D Computer Program  {{< br >}}  {{< br >}}Design Project Examples | &nbsp; |
-| 11 | Emergence and Predictability | ([PDF]({{< baseurl >}}/resources/emergence)) |
-| 12 | Final Project Review |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF ‑ 3.8 MB]({{< baseurl >}}/resources/lect1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Basic Concepts_  
+  
+Shape Representation  
+  
+Shape Arithmetic  
+  
+Shape Rules
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lect2))  
+  
+Example Computations ([PDF]({{< baseurl >}}/resources/examplecomp))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Basic Concepts (cont.)  
+  
+_Rule Application: Nondeterminism, Emergence, Labeling  
+  
+Parametric Design and Grammars
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lect3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Style and Analysis  
+  
+_"The Immediacy of the Artist's Mark in Computation" - Guest Lecture, Jacquelyn Martino
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Style and Analysis (cont.)  
+  
+_Inference Problem  
+  
+Decomposition and Meaning  
+  
+Examples: Ice Rays, Palladio
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lect5))  
+  
+Andrea Palladio ([PDF]({{< baseurl >}}/resources/palladio))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Assignment 4 Review_  
+  
+Student Presentations of their Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Creative Design  
+  
+_Basic Grammars
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lect7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Creative Design (cont.)  
+_  
+Beyond Basic Grammars
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF ‑ 1.4 MB]({{< baseurl >}}/resources/lect8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Creative Design (cont.)  
+_  
+Shaper2D Computer Program  
+  
+Nondeterministic Shaper2D Computer Program
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lect9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Creative Design (cont.)  
+_  
+Shaper3D Computer Program  
+  
+Design Project Examples
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Emergence and Predictability
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/emergence))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

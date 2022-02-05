@@ -4,17 +4,197 @@ title: Calendar
 uid: fc377f76-fa95-c661-4ff5-dfa070642dec
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction |  |
-| 2 | _Basic Concepts_  {{< br >}}  {{< br >}}Shape Representation  {{< br >}}  {{< br >}}Shape Arithmetic  {{< br >}}  {{< br >}}Shape Rules | Assignment 1 due |
-| 3 | _Basic Concepts (cont.)  {{< br >}}  {{< br >}}_Rule Application: Nondeterminism, Emergence, Labeling  {{< br >}}  {{< br >}}Parametric Design and Grammars | Assignment 2 due |
-| 4 | _Style and Analysis  {{< br >}}  {{< br >}}_"The Immediacy of the Artist's Mark in Computation" - Guest Lecture, Jacquelyn Martino | Assignment 3 due |
-| 5 | _Style and Analysis (cont.)  {{< br >}}  {{< br >}}_Inference Problem  {{< br >}}  {{< br >}}Decomposition and Meaning  {{< br >}}  {{< br >}}Examples: Ice Rays, Palladio | Assignment 4 due |
-| 6 | _Assignment 4 Review_  {{< br >}}  {{< br >}}Student Presentations of their Assignments | Assignment 5 due |
-| 7 | _Creative Design  {{< br >}}  {{< br >}}_Basic Grammars |  |
-| 8 | _Creative Design (cont.)_  {{< br >}}  {{< br >}}Beyond Basic Grammars | Assignment 6 due |
-| 9 | _Creative Design (cont.)_  {{< br >}}  {{< br >}}Shaper2D Computer Program  {{< br >}}  {{< br >}}Nondeterministic Shaper2D Computer Program | Assignment 7 due |
-| 10 | _Creative Design (cont.)  {{< br >}}_  {{< br >}}Shaper3D Computer Program  {{< br >}}  {{< br >}}Design Project Examples | Assignment 8 due |
-| 11 | Emergence and Predictability |  |
-| 12 | Final Project Review | Final project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Basic Concepts_  
+  
+Shape Representation  
+  
+Shape Arithmetic  
+  
+Shape Rules
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Basic Concepts (cont.)  
+  
+_Rule Application: Nondeterminism, Emergence, Labeling  
+  
+Parametric Design and Grammars
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Style and Analysis  
+  
+_"The Immediacy of the Artist's Mark in Computation" - Guest Lecture, Jacquelyn Martino
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Style and Analysis (cont.)  
+  
+_Inference Problem  
+  
+Decomposition and Meaning  
+  
+Examples: Ice Rays, Palladio
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Assignment 4 Review_  
+  
+Student Presentations of their Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Creative Design  
+  
+_Basic Grammars
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Creative Design (cont.)_  
+  
+Beyond Basic Grammars
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Creative Design (cont.)_  
+  
+Shaper2D Computer Program  
+  
+Nondeterministic Shaper2D Computer Program
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Creative Design (cont.)  
+_  
+Shaper3D Computer Program  
+  
+Design Project Examples
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Emergence and Predictability
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Review
+{{< tdclose >}}
+{{< tdopen >}}
+Final project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
